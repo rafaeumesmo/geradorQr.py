@@ -1,3 +1,5 @@
+#gerador qr em python
+
 import qrcode
 from PIL import Image
 import tempfile
